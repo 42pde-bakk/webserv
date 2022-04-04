@@ -5,4 +5,4 @@
 
 42's Webserv project by Sam Kortekaas, Tuan Perera and Peer de Bakker
 
-## Project status: [![Webserv status](https://badge42.herokuapp.com/api/project/pde-bakk/webserv)](https://github.com/JaeSeoKim/badge42)
+## Project status: [![Webserv status](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/project/1976419)](https://github.com/JaeSeoKim/badge42)
